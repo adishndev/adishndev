@@ -1,21 +1,21 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h1 align="center">Hi 👋, I'm Adish Nimnada</h1>
+<h3 align="center">Student AI developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **AI + RPA**
+- 🌱 I’m currently learning **Git + Python**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Learning at **School**
 
-- 💬 Ask me about **RPA**
+- 💬 Ask me about **Python , Git , Linux , Docker**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **adish.n.dev@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **I want to change the world!**
 
 </td>
 <td width="50%" align="center">
